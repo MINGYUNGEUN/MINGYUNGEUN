@@ -1,30 +1,17 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Gyungeun!&fontAlign=50&fontAlignY=35)
 
-## Hi there 👋
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMINGYUNGEUN%2Fhit-counter&count_bg=%23FFEC00&title_bg=%2389FF00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
+### 한 줄 소개
+안녕하세요, 민경은입니다!
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+## SKILLS
+**Langs and frameworks**  
+![python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+**INTERESTS**
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ______입니다!
+**INFRA&TOOLS**
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
-
-
-**MINGYUNGEUN/MINGYUNGEUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MINGYUNGEUN&layout=compact)
+![GE's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINGYUNGEUN&show_icons=true&theme=tokyonight)
